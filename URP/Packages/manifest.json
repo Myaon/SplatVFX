@@ -9,12 +9,14 @@
     }
   ],
   "dependencies": {
-    "com.unity.ide.visualstudio": "2.0.22",
-    "com.unity.render-pipelines.universal": "15.0.7",
-    "com.unity.visualeffectgraph": "15.0.7",
-    "com.unity.xr.arkit": "5.1.5",
-    "com.unity.xr.management": "4.4.0",
+    "com.unity.ide.visualstudio": "2.0.23",
+    "com.unity.multiplayer.center": "1.0.0",
+    "com.unity.render-pipelines.universal": "17.2.0",
+    "com.unity.visualeffectgraph": "17.2.0",
+    "com.unity.xr.arkit": "6.2.0",
+    "com.unity.xr.management": "4.5.1",
     "jp.keijiro.klak.motion": "1.1.0",
-    "jp.keijiro.splat-vfx": "file:../../jp.keijiro.splat-vfx"
+    "jp.keijiro.splat-vfx": "file:../../jp.keijiro.splat-vfx",
+    "com.unity.modules.accessibility": "1.0.0"
   }
 }
